@@ -18,10 +18,11 @@ class Aluno:
         self.nome = nome
         self.data_nascimento = data_nascimento
         self.turma_id = turma_id
-
+        self.cpf = CPF
+        
     def salvar(self):
-        query = "INSERT INTO Alunos (Nome, DataNascimento, TurmaID) VALUES (%s, %s, %s)"
-        values = (self.nome, self.data_nascimento, self.turma_id)
+        query = "INSERT INTO Alunos (Nome, DataNascimento, TurmaID, CPF) VALUES (%s, %s, %s)"
+        values = (self.nome, self.data_nascimento, self.turma_id, self.cpf)
         cursor.execute(query, values)
         db.commit()
 
