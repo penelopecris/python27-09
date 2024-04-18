@@ -1,4 +1,4 @@
-# python27-09
+# Proz-Atividades
 Atividades em Python - Proz Educação
 atividade 5: programa que calcula o valor de desconto para um determinado produto.
 atividade 6: programa que converte temperatura da escala Celsius para a escala Fahrenheit.
