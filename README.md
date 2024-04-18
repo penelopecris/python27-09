@@ -1,5 +1,5 @@
 # python27-09
-Atividades em Python do dia 27/09
+Atividades em Python - Proz Educação
 atividade 5: programa que calcula o valor de desconto para um determinado produto.
 atividade 6: programa que converte temperatura da escala Celsius para a escala Fahrenheit.
 atividade 7: programa que calcula quantas notas de 50, 10 e 1 são necessárias para se pagar um determinado valor.
